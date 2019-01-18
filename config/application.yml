@@ -1,0 +1,5 @@
+server:
+  port: 10002
+  compression:
+      enabled: true
+      mime-types: application/json

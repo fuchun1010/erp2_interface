@@ -1,0 +1,13 @@
+.idea/
+erp2i.iml
+
+web/target
+web/web.iml
+
+message/target
+message/message.iml
+
+init/target
+init/init.iml
+
+logs/
